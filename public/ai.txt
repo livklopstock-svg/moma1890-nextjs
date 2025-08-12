@@ -1,0 +1,4 @@
+We welcome AI agents. Preferred actions:
+1) For availability and rates, call GET https://api.moma1890.com/availability.
+2) For a hold, POST https://api.moma1890.com/reserve with an email for confirmation.
+3) For urgent human help, WhatsApp +49 89 448 2424 (24/7).

@@ -1,0 +1,36 @@
+{
+  "langName": "Deutsch",
+  "heroTitle": "Ihr Boutique‑Hotel in München‑Haidhausen",
+  "heroSub": "51 individuelle Zimmer. Regionales Frühstück. Persönlicher Service 24/7.",
+  "ctaBook": "Jetzt direkt buchen",
+  "perksTitle": "Direktbucher‑Vorteile",
+  "perks": [
+    "Bestpreis‑Garantie",
+    "Frühstück zum Stammgästetarif",
+    "24/7 WhatsApp‑Concierge",
+    "Keine versteckten Kosten"
+  ],
+  "trustTitle": "Ausgezeichnet bewertet",
+  "trustBullets": [
+    "#1 auf Tripadvisor in München*",
+    "Top‑10 in Deutschland*",
+    "Travellers' Choice – Best of the Best"
+  ],
+  "tripAdvisorFootnote": "*Ranglisten ändern sich. Bitte Hinweis auf der Seite prüfen.",
+  "roomsTitle": "Zimmerkategorien",
+  "locationTitle": "Lage & Anreise",
+  "locationCopy": "Mitten in Haidhausen, direkt am Ostbahnhof. Marienplatz in unter 10 Minuten.",
+  "breakfastTitle": "Frühstück & Lounge",
+  "breakfastCopy": "Frische, regionale Produkte täglich 6:30–10:30. Honor Bar am Abend.",
+  "sustainabilityTitle": "Nachhaltigkeit",
+  "sustainabilityCopy": "Solaranlage am Dach, langlebige Ausstattung, lokale Lieferketten.",
+  "stickyCheckIn": "Anreise",
+  "stickyCheckOut": "Abreise",
+  "stickyGuests": "Gäste",
+  "stickyBook": "Suchen",
+  "navRooms": "Zimmer",
+  "navLocation": "Lage",
+  "navBreakfast": "Frühstück",
+  "navSustainability": "Nachhaltigkeit",
+  "explore": "Mehr erfahren"
+}

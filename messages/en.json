@@ -1,0 +1,36 @@
+{
+  "langName": "English (US)",
+  "heroTitle": "Your boutique hotel in Munich – Haidhausen",
+  "heroSub": "51 individual rooms. Regional breakfast. Personal service 24/7.",
+  "ctaBook": "Book direct",
+  "perksTitle": "Direct‑booking perks",
+  "perks": [
+    "Best price guarantee",
+    "Breakfast at regular‑guest rate",
+    "24/7 WhatsApp concierge",
+    "No hidden fees"
+  ],
+  "trustTitle": "Loved by guests",
+  "trustBullets": [
+    "#1 in Munich on Tripadvisor*",
+    "Top‑10 in Germany*",
+    "Travellers' Choice – Best of the Best"
+  ],
+  "tripAdvisorFootnote": "*Rankings can change. Verify on Tripadvisor.",
+  "roomsTitle": "Room types",
+  "locationTitle": "Location & access",
+  "locationCopy": "In the heart of Haidhausen by Munich East station. Marienplatz in <10 minutes.",
+  "breakfastTitle": "Breakfast & lounge",
+  "breakfastCopy": "Fresh regional produce daily 6:30–10:30. Honor Bar in the evening.",
+  "sustainabilityTitle": "Sustainability",
+  "sustainabilityCopy": "Rooftop solar, durable premium furnishings, local sourcing.",
+  "stickyCheckIn": "Check‑in",
+  "stickyCheckOut": "Check‑out",
+  "stickyGuests": "Guests",
+  "stickyBook": "Search",
+  "navRooms": "Rooms",
+  "navLocation": "Location",
+  "navBreakfast": "Breakfast",
+  "navSustainability": "Sustainability",
+  "explore": "Learn more"
+}

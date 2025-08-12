@@ -1,0 +1,36 @@
+{
+  "langName": "Español",
+  "heroTitle": "Tu hotel boutique en Múnich – Haidhausen",
+  "heroSub": "51 habitaciones únicas. Desayuno regional. Servicio personal 24/7.",
+  "ctaBook": "Reserva directa",
+  "perksTitle": "Ventajas por reservar directo",
+  "perks": [
+    "Mejor precio garantizado",
+    "Desayuno a tarifa de huésped habitual",
+    "Conserje por WhatsApp 24/7",
+    "Sin cargos ocultos"
+  ],
+  "trustTitle": "Muy valorado",
+  "trustBullets": [
+    "#1 en Múnich en Tripadvisor*",
+    "Top‑10 en Alemania*",
+    "Travellers' Choice – Best of the Best"
+  ],
+  "tripAdvisorFootnote": "*Las clasificaciones pueden cambiar. Verifique en Tripadvisor.",
+  "roomsTitle": "Tipos de habitación",
+  "locationTitle": "Ubicación y acceso",
+  "locationCopy": "En el corazón de Haidhausen junto a Munich East. Marienplatz en <10 minutos.",
+  "breakfastTitle": "Desayuno y lounge",
+  "breakfastCopy": "Productos regionales frescos 6:30–10:30. Honor Bar por la noche.",
+  "sustainabilityTitle": "Sostenibilidad",
+  "sustainabilityCopy": "Paneles solares, mobiliario duradero, proveedores locales.",
+  "stickyCheckIn": "Llegada",
+  "stickyCheckOut": "Salida",
+  "stickyGuests": "Huéspedes",
+  "stickyBook": "Buscar",
+  "navRooms": "Habitaciones",
+  "navLocation": "Ubicación",
+  "navBreakfast": "Desayuno",
+  "navSustainability": "Sostenibilidad",
+  "explore": "Más información"
+}
