@@ -46,9 +46,12 @@ export default function Page() {
           <p className="mt-2 text-xs text-neutral-500">{copy.tripAdvisorFootnote}</p>
         </div>
         <div>
-          <img
-            src="https://images.unsplash.com/photo-1563911302283-d2bc129e7570?q=80&w=1200&auto=format&fit=crop"
-            alt="Design room at MOMA1890 with modern furnishings"
+         <Image 
+  src="https://www.moma1890.com/wp-content/uploads/2025/MEWS/moma_außen_19.jpg?_t=1752058815"
+  alt="Hotel Außenansicht"
+  width={1200}
+  height={800} 
+/>
             className="h-full w-full rounded-2xl object-cover shadow-lg"
             loading="eager"
           />
