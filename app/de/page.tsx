@@ -46,7 +46,7 @@ export default function Page() {
           <p className="mt-2 text-xs text-neutral-500">{copy.tripAdvisorFootnote}</p>
         </div>
         <div>
-         <Image 
+         <img
   src="https://www.moma1890.com/wp-content/uploads/2025/MEWS/moma_außen_19.jpg?_t=1752058815"
   alt="Hotel Außenansicht"
   width={1200}
